@@ -1,1 +1,0 @@
-# SubnetPing-Uygulamasi
